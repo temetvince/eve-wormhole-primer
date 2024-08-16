@@ -1,5 +1,7 @@
 # Beyond the Event Horizon: A Primer for Wormhole Dwelling
 
+## LOST? You probably came here looking for [*this*](https://github.com/temetvince/eve-wormhole-primer/blob/main/WormholePrimer.pdf) document.
+
 ## Overview
 
 This repository contains a LaTeX document that serves as a comprehensive guide for navigating and operating within wormhole space in EVE Online. The guide includes essential preparation steps, operational strategies, and detailed instructions to ensure both safety and efficiency in this challenging environment.
