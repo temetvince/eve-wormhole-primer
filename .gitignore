@@ -1,0 +1,35 @@
+# Compiled LaTeX files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+
+# Intermediate files
+*.dvi
+*.synctex.gz
+*.fdb_latexmk
+*.blg
+*.bbl
+
+# Backup files
+*~
+*.bak
+*.sav
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
